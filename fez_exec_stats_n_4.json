@@ -1,0 +1,183 @@
+{
+  "0000": {
+    "depth": 1,
+    "gate_count": 0,
+    "gate_counts_detail": {
+      "measure": 4,
+      "barrier": 1
+    }
+  },
+  "0001": {
+    "depth": 14,
+    "gate_count": 31,
+    "gate_counts_detail": {
+      "rz": 17,
+      "sx": 8,
+      "cz": 6,
+      "measure": 4,
+      "barrier": 1
+    }
+  },
+  "0010": {
+    "depth": 10,
+    "gate_count": 15,
+    "gate_counts_detail": {
+      "rz": 9,
+      "sx": 4,
+      "measure": 4,
+      "cz": 2,
+      "barrier": 1
+    }
+  },
+  "0011": {
+    "depth": 14,
+    "gate_count": 32,
+    "gate_counts_detail": {
+      "rz": 18,
+      "sx": 8,
+      "cz": 6,
+      "measure": 4,
+      "barrier": 1
+    }
+  },
+  "0100": {
+    "depth": 12,
+    "gate_count": 23,
+    "gate_counts_detail": {
+      "rz": 13,
+      "sx": 6,
+      "cz": 4,
+      "measure": 4,
+      "barrier": 1
+    }
+  },
+  "0101": {
+    "depth": 14,
+    "gate_count": 32,
+    "gate_counts_detail": {
+      "rz": 18,
+      "sx": 8,
+      "cz": 6,
+      "measure": 4,
+      "barrier": 1
+    }
+  },
+  "0110": {
+    "depth": 12,
+    "gate_count": 24,
+    "gate_counts_detail": {
+      "rz": 14,
+      "sx": 6,
+      "cz": 4,
+      "measure": 4,
+      "barrier": 1
+    }
+  },
+  "0111": {
+    "depth": 14,
+    "gate_count": 33,
+    "gate_counts_detail": {
+      "rz": 19,
+      "sx": 8,
+      "cz": 6,
+      "measure": 4,
+      "barrier": 1
+    }
+  },
+  "1000": {
+    "depth": 14,
+    "gate_count": 33,
+    "gate_counts_detail": {
+      "rz": 18,
+      "sx": 8,
+      "cz": 6,
+      "measure": 4,
+      "x": 1,
+      "barrier": 1
+    }
+  },
+  "1001": {
+    "depth": 15,
+    "gate_count": 34,
+    "gate_counts_detail": {
+      "rz": 19,
+      "sx": 8,
+      "cz": 6,
+      "measure": 4,
+      "x": 1,
+      "barrier": 1
+    }
+  },
+  "1010": {
+    "depth": 14,
+    "gate_count": 32,
+    "gate_counts_detail": {
+      "rz": 17,
+      "sx": 8,
+      "cz": 6,
+      "measure": 4,
+      "x": 1,
+      "barrier": 1
+    }
+  },
+  "1011": {
+    "depth": 15,
+    "gate_count": 33,
+    "gate_counts_detail": {
+      "rz": 18,
+      "sx": 8,
+      "cz": 6,
+      "measure": 4,
+      "x": 1,
+      "barrier": 1
+    }
+  },
+  "1100": {
+    "depth": 14,
+    "gate_count": 32,
+    "gate_counts_detail": {
+      "rz": 17,
+      "sx": 8,
+      "cz": 6,
+      "measure": 4,
+      "x": 1,
+      "barrier": 1
+    }
+  },
+  "1101": {
+    "depth": 15,
+    "gate_count": 33,
+    "gate_counts_detail": {
+      "rz": 18,
+      "sx": 8,
+      "cz": 6,
+      "measure": 4,
+      "x": 1,
+      "barrier": 1
+    }
+  },
+  "1110": {
+    "depth": 14,
+    "gate_count": 31,
+    "gate_counts_detail": {
+      "rz": 16,
+      "sx": 8,
+      "cz": 6,
+      "measure": 4,
+      "x": 1,
+      "barrier": 1
+    }
+  },
+  "1111": {
+    "depth": 15,
+    "gate_count": 32,
+    "gate_counts_detail": {
+      "rz": 17,
+      "sx": 8,
+      "cz": 6,
+      "measure": 4,
+      "x": 1,
+      "barrier": 1
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "job_id": "d7jmnj23fd4c73de8j7g",
+  "backend": "ibm_fez",
+  "status": "DONE",
+  "metrics": {
+    "caller": "qiskit_ibm_runtime~sampler.py",
+    "qiskit_version": "qiskit_ibm_runtime-0.46.1,qiskit-2.4.0*,qiskit_aer-0.17.2",
+    "timestamps": {
+      "created": "2026-04-21T12:21:32.727629Z",
+      "finished": "2026-04-21T12:22:51.021035Z",
+      "running": "2026-04-21T12:21:33.783518Z"
+    },
+    "bss": {
+      "seconds": 69
+    },
+    "usage": {
+      "quantum_seconds": 69,
+      "seconds": 69
+    }
+  },
+  "timestamp": "20260421_122010",
+  "n": 6,
+  "shots": 4096
+}

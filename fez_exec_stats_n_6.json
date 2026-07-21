@@ -1,0 +1,738 @@
+{
+  "000000": {
+    "depth": 30,
+    "gate_count": 53,
+    "gate_counts_detail": {
+      "sx": 21,
+      "rz": 20,
+      "cz": 12,
+      "measure": 6,
+      "barrier": 1
+    }
+  },
+  "000001": {
+    "depth": 38,
+    "gate_count": 91,
+    "gate_counts_detail": {
+      "sx": 36,
+      "rz": 33,
+      "cz": 22,
+      "measure": 6,
+      "barrier": 1
+    }
+  },
+  "000010": {
+    "depth": 25,
+    "gate_count": 36,
+    "gate_counts_detail": {
+      "sx": 17,
+      "rz": 11,
+      "cz": 8,
+      "measure": 6,
+      "barrier": 1
+    }
+  },
+  "000011": {
+    "depth": 52,
+    "gate_count": 87,
+    "gate_counts_detail": {
+      "sx": 35,
+      "rz": 30,
+      "cz": 22,
+      "measure": 6,
+      "barrier": 1
+    }
+  },
+  "000100": {
+    "depth": 27,
+    "gate_count": 44,
+    "gate_counts_detail": {
+      "sx": 19,
+      "rz": 15,
+      "cz": 10,
+      "measure": 6,
+      "barrier": 1
+    }
+  },
+  "000101": {
+    "depth": 52,
+    "gate_count": 87,
+    "gate_counts_detail": {
+      "sx": 35,
+      "rz": 30,
+      "cz": 22,
+      "measure": 6,
+      "barrier": 1
+    }
+  },
+  "000110": {
+    "depth": 27,
+    "gate_count": 66,
+    "gate_counts_detail": {
+      "sx": 32,
+      "rz": 18,
+      "cz": 16,
+      "measure": 6,
+      "barrier": 1
+    }
+  },
+  "000111": {
+    "depth": 61,
+    "gate_count": 91,
+    "gate_counts_detail": {
+      "sx": 36,
+      "rz": 33,
+      "cz": 22,
+      "measure": 6,
+      "barrier": 1
+    }
+  },
+  "001000": {
+    "depth": 29,
+    "gate_count": 52,
+    "gate_counts_detail": {
+      "sx": 21,
+      "rz": 19,
+      "cz": 12,
+      "measure": 6,
+      "barrier": 1
+    }
+  },
+  "001001": {
+    "depth": 38,
+    "gate_count": 92,
+    "gate_counts_detail": {
+      "sx": 36,
+      "rz": 34,
+      "cz": 22,
+      "measure": 6,
+      "barrier": 1
+    }
+  },
+  "001010": {
+    "depth": 29,
+    "gate_count": 53,
+    "gate_counts_detail": {
+      "sx": 21,
+      "rz": 20,
+      "cz": 12,
+      "measure": 6,
+      "barrier": 1
+    }
+  },
+  "001011": {
+    "depth": 55,
+    "gate_count": 94,
+    "gate_counts_detail": {
+      "sx": 37,
+      "rz": 35,
+      "cz": 22,
+      "measure": 6,
+      "barrier": 1
+    }
+  },
+  "001100": {
+    "depth": 29,
+    "gate_count": 49,
+    "gate_counts_detail": {
+      "sx": 19,
+      "rz": 18,
+      "cz": 12,
+      "measure": 6,
+      "barrier": 1
+    }
+  },
+  "001101": {
+    "depth": 62,
+    "gate_count": 93,
+    "gate_counts_detail": {
+      "sx": 36,
+      "rz": 35,
+      "cz": 22,
+      "measure": 6,
+      "barrier": 1
+    }
+  },
+  "001110": {
+    "depth": 29,
+    "gate_count": 54,
+    "gate_counts_detail": {
+      "rz": 21,
+      "sx": 21,
+      "cz": 12,
+      "measure": 6,
+      "barrier": 1
+    }
+  },
+  "001111": {
+    "depth": 37,
+    "gate_count": 90,
+    "gate_counts_detail": {
+      "sx": 36,
+      "rz": 32,
+      "cz": 22,
+      "measure": 6,
+      "barrier": 1
+    }
+  },
+  "010000": {
+    "depth": 38,
+    "gate_count": 61,
+    "gate_counts_detail": {
+      "rz": 25,
+      "sx": 22,
+      "cz": 14,
+      "measure": 6,
+      "barrier": 1
+    }
+  },
+  "010001": {
+    "depth": 48,
+    "gate_count": 87,
+    "gate_counts_detail": {
+      "sx": 35,
+      "rz": 30,
+      "cz": 22,
+      "measure": 6,
+      "barrier": 1
+    }
+  },
+  "010010": {
+    "depth": 29,
+    "gate_count": 57,
+    "gate_counts_detail": {
+      "rz": 22,
+      "sx": 21,
+      "cz": 14,
+      "measure": 6,
+      "barrier": 1
+    }
+  },
+  "010011": {
+    "depth": 52,
+    "gate_count": 92,
+    "gate_counts_detail": {
+      "sx": 37,
+      "rz": 33,
+      "cz": 22,
+      "measure": 6,
+      "barrier": 1
+    }
+  },
+  "010100": {
+    "depth": 35,
+    "gate_count": 60,
+    "gate_counts_detail": {
+      "rz": 24,
+      "sx": 22,
+      "cz": 14,
+      "measure": 6,
+      "barrier": 1
+    }
+  },
+  "010101": {
+    "depth": 60,
+    "gate_count": 93,
+    "gate_counts_detail": {
+      "sx": 36,
+      "rz": 35,
+      "cz": 22,
+      "measure": 6,
+      "barrier": 1
+    }
+  },
+  "010110": {
+    "depth": 29,
+    "gate_count": 58,
+    "gate_counts_detail": {
+      "rz": 23,
+      "sx": 21,
+      "cz": 14,
+      "measure": 6,
+      "barrier": 1
+    }
+  },
+  "010111": {
+    "depth": 37,
+    "gate_count": 90,
+    "gate_counts_detail": {
+      "sx": 36,
+      "rz": 32,
+      "cz": 22,
+      "measure": 6,
+      "barrier": 1
+    }
+  },
+  "011000": {
+    "depth": 38,
+    "gate_count": 62,
+    "gate_counts_detail": {
+      "rz": 26,
+      "sx": 22,
+      "cz": 14,
+      "measure": 6,
+      "barrier": 1
+    }
+  },
+  "011001": {
+    "depth": 46,
+    "gate_count": 89,
+    "gate_counts_detail": {
+      "sx": 36,
+      "rz": 31,
+      "cz": 22,
+      "measure": 6,
+      "barrier": 1
+    }
+  },
+  "011010": {
+    "depth": 35,
+    "gate_count": 61,
+    "gate_counts_detail": {
+      "rz": 25,
+      "sx": 22,
+      "cz": 14,
+      "measure": 6,
+      "barrier": 1
+    }
+  },
+  "011011": {
+    "depth": 54,
+    "gate_count": 93,
+    "gate_counts_detail": {
+      "sx": 37,
+      "rz": 34,
+      "cz": 22,
+      "measure": 6,
+      "barrier": 1
+    }
+  },
+  "011100": {
+    "depth": 34,
+    "gate_count": 63,
+    "gate_counts_detail": {
+      "rz": 27,
+      "sx": 22,
+      "cz": 14,
+      "measure": 6,
+      "barrier": 1
+    }
+  },
+  "011101": {
+    "depth": 37,
+    "gate_count": 92,
+    "gate_counts_detail": {
+      "sx": 36,
+      "rz": 34,
+      "cz": 22,
+      "measure": 6,
+      "barrier": 1
+    }
+  },
+  "011110": {
+    "depth": 35,
+    "gate_count": 62,
+    "gate_counts_detail": {
+      "rz": 26,
+      "sx": 22,
+      "cz": 14,
+      "measure": 6,
+      "barrier": 1
+    }
+  },
+  "011111": {
+    "depth": 47,
+    "gate_count": 88,
+    "gate_counts_detail": {
+      "sx": 35,
+      "rz": 31,
+      "cz": 22,
+      "measure": 6,
+      "barrier": 1
+    }
+  },
+  "100000": {
+    "depth": 37,
+    "gate_count": 91,
+    "gate_counts_detail": {
+      "sx": 36,
+      "rz": 32,
+      "cz": 22,
+      "measure": 6,
+      "x": 1,
+      "barrier": 1
+    }
+  },
+  "100001": {
+    "depth": 48,
+    "gate_count": 89,
+    "gate_counts_detail": {
+      "sx": 35,
+      "rz": 31,
+      "cz": 22,
+      "measure": 6,
+      "x": 1,
+      "barrier": 1
+    }
+  },
+  "100010": {
+    "depth": 51,
+    "gate_count": 87,
+    "gate_counts_detail": {
+      "sx": 35,
+      "rz": 29,
+      "cz": 22,
+      "measure": 6,
+      "x": 1,
+      "barrier": 1
+    }
+  },
+  "100011": {
+    "depth": 55,
+    "gate_count": 91,
+    "gate_counts_detail": {
+      "sx": 36,
+      "rz": 32,
+      "cz": 22,
+      "measure": 6,
+      "x": 1,
+      "barrier": 1
+    }
+  },
+  "100100": {
+    "depth": 40,
+    "gate_count": 92,
+    "gate_counts_detail": {
+      "sx": 36,
+      "rz": 33,
+      "cz": 22,
+      "measure": 6,
+      "x": 1,
+      "barrier": 1
+    }
+  },
+  "100101": {
+    "depth": 61,
+    "gate_count": 91,
+    "gate_counts_detail": {
+      "sx": 36,
+      "rz": 32,
+      "cz": 22,
+      "measure": 6,
+      "x": 1,
+      "barrier": 1
+    }
+  },
+  "100110": {
+    "depth": 37,
+    "gate_count": 91,
+    "gate_counts_detail": {
+      "sx": 36,
+      "rz": 32,
+      "cz": 22,
+      "measure": 6,
+      "x": 1,
+      "barrier": 1
+    }
+  },
+  "100111": {
+    "depth": 39,
+    "gate_count": 92,
+    "gate_counts_detail": {
+      "sx": 36,
+      "rz": 33,
+      "cz": 22,
+      "measure": 6,
+      "x": 1,
+      "barrier": 1
+    }
+  },
+  "101000": {
+    "depth": 54,
+    "gate_count": 87,
+    "gate_counts_detail": {
+      "sx": 35,
+      "rz": 29,
+      "cz": 22,
+      "measure": 6,
+      "x": 1,
+      "barrier": 1
+    }
+  },
+  "101001": {
+    "depth": 48,
+    "gate_count": 88,
+    "gate_counts_detail": {
+      "sx": 35,
+      "rz": 30,
+      "cz": 22,
+      "measure": 6,
+      "x": 1,
+      "barrier": 1
+    }
+  },
+  "101010": {
+    "depth": 39,
+    "gate_count": 91,
+    "gate_counts_detail": {
+      "sx": 36,
+      "rz": 32,
+      "cz": 22,
+      "measure": 6,
+      "x": 1,
+      "barrier": 1
+    }
+  },
+  "101011": {
+    "depth": 60,
+    "gate_count": 92,
+    "gate_counts_detail": {
+      "sx": 36,
+      "rz": 33,
+      "cz": 22,
+      "measure": 6,
+      "x": 1,
+      "barrier": 1
+    }
+  },
+  "101100": {
+    "depth": 61,
+    "gate_count": 91,
+    "gate_counts_detail": {
+      "sx": 36,
+      "rz": 32,
+      "cz": 22,
+      "measure": 6,
+      "x": 1,
+      "barrier": 1
+    }
+  },
+  "101101": {
+    "depth": 55,
+    "gate_count": 93,
+    "gate_counts_detail": {
+      "sx": 37,
+      "rz": 33,
+      "cz": 22,
+      "measure": 6,
+      "x": 1,
+      "barrier": 1
+    }
+  },
+  "101110": {
+    "depth": 40,
+    "gate_count": 92,
+    "gate_counts_detail": {
+      "sx": 36,
+      "rz": 33,
+      "cz": 22,
+      "measure": 6,
+      "x": 1,
+      "barrier": 1
+    }
+  },
+  "101111": {
+    "depth": 51,
+    "gate_count": 88,
+    "gate_counts_detail": {
+      "sx": 35,
+      "rz": 30,
+      "cz": 22,
+      "measure": 6,
+      "x": 1,
+      "barrier": 1
+    }
+  },
+  "110000": {
+    "depth": 37,
+    "gate_count": 90,
+    "gate_counts_detail": {
+      "sx": 36,
+      "rz": 31,
+      "cz": 22,
+      "measure": 6,
+      "x": 1,
+      "barrier": 1
+    }
+  },
+  "110001": {
+    "depth": 62,
+    "gate_count": 93,
+    "gate_counts_detail": {
+      "sx": 36,
+      "rz": 34,
+      "cz": 22,
+      "measure": 6,
+      "x": 1,
+      "barrier": 1
+    }
+  },
+  "110010": {
+    "depth": 36,
+    "gate_count": 91,
+    "gate_counts_detail": {
+      "sx": 36,
+      "rz": 32,
+      "cz": 22,
+      "measure": 6,
+      "x": 1,
+      "barrier": 1
+    }
+  },
+  "110011": {
+    "depth": 48,
+    "gate_count": 87,
+    "gate_counts_detail": {
+      "sx": 35,
+      "rz": 29,
+      "cz": 22,
+      "measure": 6,
+      "x": 1,
+      "barrier": 1
+    }
+  },
+  "110100": {
+    "depth": 48,
+    "gate_count": 88,
+    "gate_counts_detail": {
+      "sx": 35,
+      "rz": 30,
+      "cz": 22,
+      "measure": 6,
+      "x": 1,
+      "barrier": 1
+    }
+  },
+  "110101": {
+    "depth": 39,
+    "gate_count": 92,
+    "gate_counts_detail": {
+      "sx": 36,
+      "rz": 33,
+      "cz": 22,
+      "measure": 6,
+      "x": 1,
+      "barrier": 1
+    }
+  },
+  "110110": {
+    "depth": 38,
+    "gate_count": 92,
+    "gate_counts_detail": {
+      "sx": 36,
+      "rz": 33,
+      "cz": 22,
+      "measure": 6,
+      "x": 1,
+      "barrier": 1
+    }
+  },
+  "110111": {
+    "depth": 63,
+    "gate_count": 93,
+    "gate_counts_detail": {
+      "sx": 36,
+      "rz": 34,
+      "cz": 22,
+      "measure": 6,
+      "x": 1,
+      "barrier": 1
+    }
+  },
+  "111000": {
+    "depth": 37,
+    "gate_count": 89,
+    "gate_counts_detail": {
+      "sx": 36,
+      "rz": 30,
+      "cz": 22,
+      "measure": 6,
+      "x": 1,
+      "barrier": 1
+    }
+  },
+  "111001": {
+    "depth": 38,
+    "gate_count": 90,
+    "gate_counts_detail": {
+      "sx": 36,
+      "rz": 31,
+      "cz": 22,
+      "measure": 6,
+      "x": 1,
+      "barrier": 1
+    }
+  },
+  "111010": {
+    "depth": 38,
+    "gate_count": 90,
+    "gate_counts_detail": {
+      "sx": 36,
+      "rz": 31,
+      "cz": 22,
+      "measure": 6,
+      "x": 1,
+      "barrier": 1
+    }
+  },
+  "111011": {
+    "depth": 39,
+    "gate_count": 91,
+    "gate_counts_detail": {
+      "sx": 36,
+      "rz": 32,
+      "cz": 22,
+      "measure": 6,
+      "x": 1,
+      "barrier": 1
+    }
+  },
+  "111100": {
+    "depth": 36,
+    "gate_count": 90,
+    "gate_counts_detail": {
+      "sx": 36,
+      "rz": 31,
+      "cz": 22,
+      "measure": 6,
+      "x": 1,
+      "barrier": 1
+    }
+  },
+  "111101": {
+    "depth": 41,
+    "gate_count": 91,
+    "gate_counts_detail": {
+      "sx": 36,
+      "rz": 32,
+      "cz": 22,
+      "measure": 6,
+      "x": 1,
+      "barrier": 1
+    }
+  },
+  "111110": {
+    "depth": 52,
+    "gate_count": 86,
+    "gate_counts_detail": {
+      "sx": 35,
+      "rz": 28,
+      "cz": 22,
+      "measure": 6,
+      "x": 1,
+      "barrier": 1
+    }
+  },
+  "111111": {
+    "depth": 53,
+    "gate_count": 93,
+    "gate_counts_detail": {
+      "sx": 37,
+      "rz": 33,
+      "cz": 22,
+      "measure": 6,
+      "x": 1,
+      "barrier": 1
+    }
+  }
+}
